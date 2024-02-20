@@ -1,3 +1,11 @@
+Creating a Shopping Cart with the the help of Context Api in Reactjs.
+
+Language use - Reactjs.
+Api - Context API.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
