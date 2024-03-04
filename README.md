@@ -1,4 +1,4 @@
-Creating a Shopping Cart with the the help of Context Api in Reactjs.
+Shopping Cart in Reactjs.
 
 Language use - Reactjs.
 Api - Context API.
